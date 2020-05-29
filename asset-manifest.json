@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/jimzers-blog/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/jimzers-blog/static/js/main.8a600f9f.chunk.js",
-    "main.js.map": "/jimzers-blog/static/js/main.8a600f9f.chunk.js.map",
+    "main.js": "/jimzers-blog/static/js/main.3b7d172e.chunk.js",
+    "main.js.map": "/jimzers-blog/static/js/main.3b7d172e.chunk.js.map",
     "runtime-main.js": "/jimzers-blog/static/js/runtime-main.8b1a4b67.js",
     "runtime-main.js.map": "/jimzers-blog/static/js/runtime-main.8b1a4b67.js.map",
-    "static/js/2.334b384e.chunk.js": "/jimzers-blog/static/js/2.334b384e.chunk.js",
-    "static/js/2.334b384e.chunk.js.map": "/jimzers-blog/static/js/2.334b384e.chunk.js.map",
+    "static/js/2.e62b0872.chunk.js": "/jimzers-blog/static/js/2.e62b0872.chunk.js",
+    "static/js/2.e62b0872.chunk.js.map": "/jimzers-blog/static/js/2.e62b0872.chunk.js.map",
     "index.html": "/jimzers-blog/index.html",
-    "precache-manifest.2cb27a62a3352489da06b74a5dcd0c08.js": "/jimzers-blog/precache-manifest.2cb27a62a3352489da06b74a5dcd0c08.js",
+    "precache-manifest.f7ec87e6381e379fb257a21e084cc355.js": "/jimzers-blog/precache-manifest.f7ec87e6381e379fb257a21e084cc355.js",
     "service-worker.js": "/jimzers-blog/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/jimzers-blog/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.334b384e.chunk.js.LICENSE.txt": "/jimzers-blog/static/js/2.334b384e.chunk.js.LICENSE.txt"
+    "static/js/2.e62b0872.chunk.js.LICENSE.txt": "/jimzers-blog/static/js/2.e62b0872.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b1a4b67.js",
-    "static/js/2.334b384e.chunk.js",
+    "static/js/2.e62b0872.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.8a600f9f.chunk.js"
+    "static/js/main.3b7d172e.chunk.js"
   ]
 }
