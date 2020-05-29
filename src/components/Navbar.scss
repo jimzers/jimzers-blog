@@ -1,0 +1,19 @@
+.navbar-container {
+  // color and size
+  background-color: aquamarine;
+  width: 80%;
+
+  // flex stuff
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  justify-content: space-evenly;
+  align-items: stretch;
+
+  .navbar-item {
+    flex-grow: 1;
+    text-align: center;
+  }
+
+}
