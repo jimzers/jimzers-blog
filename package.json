@@ -34,7 +34,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://myusername.github.io/jimzers-blog",
+  "homepage": "https://jimzers.github.io/jimzers-blog",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
