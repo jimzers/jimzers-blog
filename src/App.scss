@@ -1,13 +1,22 @@
 .background {
   // set absolute pos
   position: absolute;
+  background-attachment: fixed;
 
   // size
   width: 100%;
-  height: 100%;
+  height: auto;
+  min-height: 100%;
 
   // color
   background-color: bisque;
+}
+
+.title {
+  background-color: pink;
+  border-color: #febc7e;
+  border-width: 0.75em;
+  border-style: double;
 }
 
 .main {
@@ -16,10 +25,15 @@
   flex-direction: column;
   align-items: center;
 
+  flex: 1 1 auto;
+
   // center div
   // size of div
   width: 80%;
   height: 90%;
+  min-height: -moz-available;          /* WebKit-based browsers will ignore this. */
+  min-height: -webkit-fill-available;  /* Mozilla-based browsers will ignore this. */
+  min-height: fill-available;
 
   // div positioning stuff
   margin: 5% auto;

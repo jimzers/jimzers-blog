@@ -17,7 +17,9 @@ class App extends Component {
             <HashRouter>
                 <div className={"background"}>
                     <div className={"main"}>
-                        <h1 className={"title"}>jimzers' Place</h1>
+                        <div className={"title"}>
+                            <h1 className={"title-text"}>jimzers' Place</h1>
+                        </div>
                         <Navbar/>
                         <div className="content">
                             <Route exact path="/" component={Home}/>
