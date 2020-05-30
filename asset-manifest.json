@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jimzers/static/css/main.7d5fdcfc.chunk.css",
-    "main.js": "/jimzers/static/js/main.1b05e1db.chunk.js",
-    "main.js.map": "/jimzers/static/js/main.1b05e1db.chunk.js.map",
+    "main.css": "/jimzers/static/css/main.61d7962a.chunk.css",
+    "main.js": "/jimzers/static/js/main.47fcc3b6.chunk.js",
+    "main.js.map": "/jimzers/static/js/main.47fcc3b6.chunk.js.map",
     "runtime-main.js": "/jimzers/static/js/runtime-main.d2ce6382.js",
     "runtime-main.js.map": "/jimzers/static/js/runtime-main.d2ce6382.js.map",
     "static/js/2.468a0c94.chunk.js": "/jimzers/static/js/2.468a0c94.chunk.js",
     "static/js/2.468a0c94.chunk.js.map": "/jimzers/static/js/2.468a0c94.chunk.js.map",
     "index.html": "/jimzers/index.html",
-    "precache-manifest.a29373c8ba32401a97cee3089af883ee.js": "/jimzers/precache-manifest.a29373c8ba32401a97cee3089af883ee.js",
+    "precache-manifest.6f953e715603b0233b6e05d32f98ad5a.js": "/jimzers/precache-manifest.6f953e715603b0233b6e05d32f98ad5a.js",
     "service-worker.js": "/jimzers/service-worker.js",
-    "static/css/main.7d5fdcfc.chunk.css.map": "/jimzers/static/css/main.7d5fdcfc.chunk.css.map",
+    "static/css/main.61d7962a.chunk.css.map": "/jimzers/static/css/main.61d7962a.chunk.css.map",
     "static/js/2.468a0c94.chunk.js.LICENSE.txt": "/jimzers/static/js/2.468a0c94.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d2ce6382.js",
     "static/js/2.468a0c94.chunk.js",
-    "static/css/main.7d5fdcfc.chunk.css",
-    "static/js/main.1b05e1db.chunk.js"
+    "static/css/main.61d7962a.chunk.css",
+    "static/js/main.47fcc3b6.chunk.js"
   ]
 }
